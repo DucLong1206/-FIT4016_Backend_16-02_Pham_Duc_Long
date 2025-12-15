@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MyProject\\buoi1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21145B9C-43EB-429D-9873-8B8BDC8D84B3}|..\\Inheritance\\Inheritance.csproj|d:\\myproject\\inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979BECE4-EB18-43D5-B93C-CCC3B522D523}|..\\BankAccount\\BankAccount.csproj|d:\\myproject\\bankaccount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B64E01F-76D5-44C4-AE0A-8DF8CF0ED44D}|..\\bai1\\bai1.csproj|d:\\myproject\\bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0200F9-D794-4813-B8C3-31ED21A198FB}|..\\Constructor\\Constructor.csproj|d:\\myproject\\constructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D695E35-FE64-4182-BDE2-69674CA48B51}|..\\PHT05_OOP\\PHT05_OOP.csproj|d:\\myproject\\pht05_oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8FD6B67-E3BE-4E69-A764-FCCEA9C75CDE}|..\\PHT06_Project\\PHT06_Project.csproj|d:\\myproject\\pht06_project\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8FD6B67-E3BE-4E69-A764-FCCEA9C75CDE}|..\\PHT06_Project\\PHT06_Project.csproj|d:\\myproject\\pht06_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8FD6B67-E3BE-4E69-A764-FCCEA9C75CDE}|..\\PHT06_Project\\PHT06_Project.csproj|d:\\myproject\\pht06_project\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BD582B-2A6C-42A6-BD4C-C9D9190AC528}|..\\bai3-4\\bai3-4.csproj|d:\\myproject\\bai3-4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8150FDA-594E-4336-82AE-6F89F9EE1362}|buoi1.csproj|d:\\myproject\\buoi1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8150FDA-594E-4336-82AE-6F89F9EE1362}|buoi1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8150FDA-594E-4336-82AE-6F89F9EE1362}|buoi1.csproj|d:\\myproject\\buoi1\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8150FDA-594E-4336-82AE-6F89F9EE1362}|buoi1.csproj|solutionrelative:bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MyProject\\Inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Inheritance\\Program.cs",
+              "ToolTip": "D:\\MyProject\\Inheritance\\Program.cs",
+              "RelativeToolTip": "..\\Inheritance\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T15:51:00.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MyProject\\BankAccount\\Program.cs",
+              "RelativeDocumentMoniker": "..\\BankAccount\\Program.cs",
+              "ToolTip": "D:\\MyProject\\BankAccount\\Program.cs",
+              "RelativeToolTip": "..\\BankAccount\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwB8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T15:49:27.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MyProject\\Constructor\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Constructor\\Program.cs",
+              "ToolTip": "D:\\MyProject\\Constructor\\Program.cs",
+              "RelativeToolTip": "..\\Constructor\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T15:48:25.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MyProject\\PHT05_OOP\\Program.cs",
+              "RelativeDocumentMoniker": "..\\PHT05_OOP\\Program.cs",
+              "ToolTip": "D:\\MyProject\\PHT05_OOP\\Program.cs",
+              "RelativeToolTip": "..\\PHT05_OOP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T15:42:30.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentManager.cs",
+              "DocumentMoniker": "D:\\MyProject\\PHT06_Project\\StudentManager.cs",
+              "RelativeDocumentMoniker": "..\\PHT06_Project\\StudentManager.cs",
+              "ToolTip": "D:\\MyProject\\PHT06_Project\\StudentManager.cs",
+              "RelativeToolTip": "..\\PHT06_Project\\StudentManager.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAAwDkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T15:16:00.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\MyProject\\PHT06_Project\\Student.cs",
+              "RelativeDocumentMoniker": "..\\PHT06_Project\\Student.cs",
+              "ToolTip": "D:\\MyProject\\PHT06_Project\\Student.cs",
+              "RelativeToolTip": "..\\PHT06_Project\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T15:15:00.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MyProject\\PHT06_Project\\Program.cs",
+              "RelativeDocumentMoniker": "..\\PHT06_Project\\Program.cs",
+              "ToolTip": "D:\\MyProject\\PHT06_Project\\Program.cs",
+              "RelativeToolTip": "..\\PHT06_Project\\Program.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAQwAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T15:14:21.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MyProject\\bai3-4\\Program.cs",
+              "RelativeDocumentMoniker": "..\\bai3-4\\Program.cs",
+              "ToolTip": "D:\\MyProject\\bai3-4\\Program.cs",
+              "RelativeToolTip": "..\\bai3-4\\Program.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAAAAAOYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T14:29:57.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MyProject\\bai1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\bai1\\Program.cs",
+              "ToolTip": "D:\\MyProject\\bai1\\Program.cs",
+              "RelativeToolTip": "..\\bai1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T09:32:45.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "bai1.cs",
+              "DocumentMoniker": "D:\\MyProject\\buoi1\\bai1.cs",
+              "RelativeDocumentMoniker": "bai1.cs",
+              "ToolTip": "D:\\MyProject\\buoi1\\bai1.cs",
+              "RelativeToolTip": "bai1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T09:29:39.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MyProject\\buoi1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\MyProject\\buoi1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T09:23:42.812Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

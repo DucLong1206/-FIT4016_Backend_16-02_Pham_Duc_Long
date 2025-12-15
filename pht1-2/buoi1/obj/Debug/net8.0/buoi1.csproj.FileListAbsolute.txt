@@ -1,0 +1,14 @@
+D:\MyProject\buoi1\bin\Debug\net8.0\buoi1.exe
+D:\MyProject\buoi1\bin\Debug\net8.0\buoi1.deps.json
+D:\MyProject\buoi1\bin\Debug\net8.0\buoi1.runtimeconfig.json
+D:\MyProject\buoi1\bin\Debug\net8.0\buoi1.dll
+D:\MyProject\buoi1\bin\Debug\net8.0\buoi1.pdb
+D:\MyProject\buoi1\obj\Debug\net8.0\buoi1.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProject\buoi1\obj\Debug\net8.0\buoi1.AssemblyInfoInputs.cache
+D:\MyProject\buoi1\obj\Debug\net8.0\buoi1.AssemblyInfo.cs
+D:\MyProject\buoi1\obj\Debug\net8.0\buoi1.csproj.CoreCompileInputs.cache
+D:\MyProject\buoi1\obj\Debug\net8.0\buoi1.dll
+D:\MyProject\buoi1\obj\Debug\net8.0\refint\buoi1.dll
+D:\MyProject\buoi1\obj\Debug\net8.0\buoi1.pdb
+D:\MyProject\buoi1\obj\Debug\net8.0\buoi1.genruntimeconfig.cache
+D:\MyProject\buoi1\obj\Debug\net8.0\ref\buoi1.dll

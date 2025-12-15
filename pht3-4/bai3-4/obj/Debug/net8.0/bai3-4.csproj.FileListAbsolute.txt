@@ -1,0 +1,14 @@
+D:\MyProject\bai3-4\bin\Debug\net8.0\bai3-4.exe
+D:\MyProject\bai3-4\bin\Debug\net8.0\bai3-4.deps.json
+D:\MyProject\bai3-4\bin\Debug\net8.0\bai3-4.runtimeconfig.json
+D:\MyProject\bai3-4\bin\Debug\net8.0\bai3-4.dll
+D:\MyProject\bai3-4\bin\Debug\net8.0\bai3-4.pdb
+D:\MyProject\bai3-4\obj\Debug\net8.0\bai3-4.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProject\bai3-4\obj\Debug\net8.0\bai3-4.AssemblyInfoInputs.cache
+D:\MyProject\bai3-4\obj\Debug\net8.0\bai3-4.AssemblyInfo.cs
+D:\MyProject\bai3-4\obj\Debug\net8.0\bai3-4.csproj.CoreCompileInputs.cache
+D:\MyProject\bai3-4\obj\Debug\net8.0\bai3-4.dll
+D:\MyProject\bai3-4\obj\Debug\net8.0\refint\bai3-4.dll
+D:\MyProject\bai3-4\obj\Debug\net8.0\bai3-4.pdb
+D:\MyProject\bai3-4\obj\Debug\net8.0\bai3-4.genruntimeconfig.cache
+D:\MyProject\bai3-4\obj\Debug\net8.0\ref\bai3-4.dll

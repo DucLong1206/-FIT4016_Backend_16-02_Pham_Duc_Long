@@ -1,0 +1,14 @@
+D:\MyProject\PHT06_Project\bin\Debug\net8.0\PHT06_Project.exe
+D:\MyProject\PHT06_Project\bin\Debug\net8.0\PHT06_Project.deps.json
+D:\MyProject\PHT06_Project\bin\Debug\net8.0\PHT06_Project.runtimeconfig.json
+D:\MyProject\PHT06_Project\bin\Debug\net8.0\PHT06_Project.dll
+D:\MyProject\PHT06_Project\bin\Debug\net8.0\PHT06_Project.pdb
+D:\MyProject\PHT06_Project\obj\Debug\net8.0\PHT06_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProject\PHT06_Project\obj\Debug\net8.0\PHT06_Project.AssemblyInfoInputs.cache
+D:\MyProject\PHT06_Project\obj\Debug\net8.0\PHT06_Project.AssemblyInfo.cs
+D:\MyProject\PHT06_Project\obj\Debug\net8.0\PHT06_Project.csproj.CoreCompileInputs.cache
+D:\MyProject\PHT06_Project\obj\Debug\net8.0\PHT06_Project.dll
+D:\MyProject\PHT06_Project\obj\Debug\net8.0\refint\PHT06_Project.dll
+D:\MyProject\PHT06_Project\obj\Debug\net8.0\PHT06_Project.pdb
+D:\MyProject\PHT06_Project\obj\Debug\net8.0\PHT06_Project.genruntimeconfig.cache
+D:\MyProject\PHT06_Project\obj\Debug\net8.0\ref\PHT06_Project.dll
