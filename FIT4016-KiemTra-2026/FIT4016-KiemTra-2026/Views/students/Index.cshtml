@@ -1,0 +1,127 @@
+﻿@model List<FIT4016_KiemTra_2026.Models.Student>
+@using FIT4016_KiemTra_2026.Models
+
+<h2>Students List</h2>
+
+<button class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#createModal">
+    + Add Student
+</button>
+
+<table class="table table-bordered mt-3">
+    <thead>
+        <tr>
+            <th>Full Name</th>
+            <th>Student ID</th>
+            <th>Email</th>
+            <th>Phone</th>
+            <th>School ID</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model)
+{
+        <tr>
+            <td>@item.full_name</td>
+            <td>@item.student_id</td>
+            <td>@item.email</td>
+            <td>@item.phone</td>
+            <td>@item.school_id</td>
+            <td>
+                <button class="btn btn-warning btn-sm"
+                        data-bs-toggle="modal"
+                            data-bs-target="#editModal-@item.Id">
+                    Edit
+                </button>
+
+                <form asp-action="Delete" method="post" style="display:inline">
+                    <input type="hidden" name="id" value="@item.Id" />
+                    <button class="btn btn-danger btn-sm"
+                            onclick="return confirm('Delete this student?')">
+                        Delete
+                    </button>
+                </form>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+<!-- ================= CREATE MODAL ================= -->
+<div class="modal fade" id="createModal">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <form asp-action="Create" method="post">
+                <div class="modal-header">
+                    <h5>Add Student</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                </div>
+
+                <div class="modal-body">
+                    <input name="full_name" class="form-control mb-2" placeholder="Full Name" />
+                    @Html.ValidationMessage("full_name", "", new { @class = "text-danger" })
+
+                    <input name="student_id" class="form-control mb-2" placeholder="Student ID" />
+                    @Html.ValidationMessage("student_id", "", new { @class = "text-danger" })
+
+                    <input name="email" class="form-control mb-2" placeholder="Email" />
+                    @Html.ValidationMessage("email", "", new { @class = "text-danger" })
+
+                    <input name="phone" class="form-control mb-2" placeholder="Phone" />
+                    @Html.ValidationMessage("phone", "", new { @class = "text-danger" })
+
+                    <select name="school_id" class="form-control">
+                        <option value="">-- Select School --</option>
+                        @foreach (var s in (List<schools>)ViewBag.Schools)
+                        {
+                            <option value="@s.Id">@s.name</option>
+                        }
+                    </select>
+                    @Html.ValidationMessage("school_id", "", new { @class = "text-danger" })
+                </div>
+
+                <div class="modal-footer">
+                    <button class="btn btn-success">Save</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<!-- ================= EDIT MODALS ================= -->
+@foreach (var item in Model)
+{
+    <div class="modal fade" id="editModal-@item.Id">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <form asp-action="Edit" method="post">
+                    <input type="hidden" name="id" value="@item.Id" />
+
+                <div class="modal-header">
+                    <h5>Edit Student</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                </div>
+
+                <div class="modal-body">
+                    <input name="full_name" value="@item.full_name" class="form-control mb-2" />
+                    <input name="email" value="@item.email" class="form-control mb-2" />
+                    <input name="phone" value="@item.phone" class="form-control mb-2" />
+
+                    <select name="school_id" class="form-control">
+                        @foreach (var s in (List<schools>)ViewBag.Schools)
+                        {
+                                <option value="@s.Id" selected="@(s.Id == item.school_id)">
+                                    @s.name
+                                </option>
+                        }
+                    </select>
+                </div>
+
+                <div class="modal-footer">
+                    <button class="btn btn-success">Update</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+}
